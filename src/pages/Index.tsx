@@ -186,11 +186,7 @@ const Index = () => {
                 <h3 className="text-xl font-semibold mb-4">Часы работы</h3>
                 <p className="flex items-center gap-2 mb-2">
                   <Icon name="Clock" className="text-[#800020]" />
-                  Пн-Пт: 09:00 - 22:00
-                </p>
-                <p className="flex items-center gap-2 mb-2">
-                  <Icon name="Clock" className="text-[#800020]" />
-                  Сб-Вс: 10:00 - 23:00
+                  Ежедневно: 10:00 - 21:00
                 </p>
               </div>
               <div>
@@ -199,7 +195,7 @@ const Index = () => {
                 </h3>
                 <p className="flex items-center gap-2 mb-2">
                   <Icon name="Phone" className="text-[#800020]" />
-                  +7 (123) 456-78-90
+                  +7 (777) 777-77-77
                 </p>
                 <p className="flex items-center gap-2">
                   <Icon name="Mail" className="text-[#800020]" />
